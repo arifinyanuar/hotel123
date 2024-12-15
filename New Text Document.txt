@@ -1,0 +1,11 @@
+1. login page & register page mau di rapihin atau tidak gapapa bebas.
+2. setelah login langsung lari ke home page.
+3. home page isinya navbar (opsional di ubah atau tidak), lalu di bagian bawah navbar berisi kalender seperti google kalender.
+
+ketentuan kalender :
+
+1. semua user dapat membuat agenda di setiap tanggal, dan terlihat username yang membuat agenda tersebut.
+2. semua user dapat melihat seluruh agenda yang ada di kalender.
+3. yang dapat mengedit serta menghapus agenda hanyalah yang membuat agenda itu sendiri.
+
+tolong usahakan agar dapat berjalan di localhost.
